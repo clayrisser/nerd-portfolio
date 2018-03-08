@@ -42,7 +42,7 @@ Submit an [issue](https://github.com/jamrizzi/nerd-portfolio/issues/new)
 
 ## Screenshots
 
-[Contribute](https://github.com/jamrizzi/nerd-portfolio/blob/master/CONTRIBUTING.md) a screenshot
+![Nerd Portfolio](https://user-images.githubusercontent.com/6234038/37148826-1870ecb6-22cc-11e8-9492-10fb463f1536.jpg)
 
 
 ## Contributing
