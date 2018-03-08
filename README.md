@@ -16,6 +16,11 @@ Please &#9733; this repo if you found it useful &#9733; &#9733; &#9733;
 * Mobile compatible
 
 
+## Demo
+
+Click [HERE](https://jamrizzi.github.io/nerd-portfolio) to view a live demo
+
+
 ## Installation
 
 ```sh
