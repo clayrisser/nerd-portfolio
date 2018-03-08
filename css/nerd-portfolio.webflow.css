@@ -75,6 +75,10 @@ body {
   flex-wrap: wrap;
 }
 
+.github-fork-ribbon:before {
+  background-color: #0099FF !important;
+}
+
 .title {
   color: #fff;
   font-size: 44px;
